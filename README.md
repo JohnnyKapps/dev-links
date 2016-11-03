@@ -2,6 +2,4 @@
 
 Relevant links related to web development
 
-* Podcasts
-* Free ebooks
-* Awesome blogs
+##[Check wiki!](https://github.com/JonatanKappsDev/dev-links/wiki)
